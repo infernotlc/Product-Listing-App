@@ -1,6 +1,6 @@
 # sqflite_demo
 
-A new Flutter project.
+Training with a database, delete,edit functions added 
 
 ## Getting Started
 
